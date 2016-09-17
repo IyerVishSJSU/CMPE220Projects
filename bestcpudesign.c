@@ -38,7 +38,7 @@ int storereg();
 int main(void){
 	//Variables for input
 
-	printf("HI");
+	printf("Change made by Vish");
 		int inst_num;
 		char userinst[INST_LEN];
 		char *loc1,*loc2,*off,*oper,*tempstr;
