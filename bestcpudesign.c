@@ -37,6 +37,8 @@ int storereg();
 //main method
 int main(void){
 	//Variables for input
+
+	printf("HI");
 		int inst_num;
 		char userinst[INST_LEN];
 		char *loc1,*loc2,*off,*oper,*tempstr;
